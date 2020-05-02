@@ -3,6 +3,8 @@ A easy to use library for retrieving weather data from the DarkSky API.
 
 ![Swift](http://img.shields.io/badge/swift-4.0-brightgreen.svg)
 
+NOTE: As the DarkSky API will be depracated since Apple acquired DarkSky, this library is no longer being maintained.
+
 
 ### Requirements
 
